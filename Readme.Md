@@ -8,4 +8,4 @@ HTML5 CSS3
 
 <h2> Sitenin çalışır gif hali </h2>
 
-![](ekran.gif) #ResponsiveLandingpage
+![](Ekran.gif) #ResponsiveLandingpage
